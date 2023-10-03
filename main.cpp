@@ -8,6 +8,7 @@ int main(){
     max=0;
     min=20000000000;
     int arr[m];
+    cout<<"changed file";
     for(int i=0;i<m;i++){
         cin>>arr[i];
         if (max<arr[i]){
